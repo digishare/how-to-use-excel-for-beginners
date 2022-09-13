@@ -1,6 +1,6 @@
 # How to use excel for beginners?
 
-[![how to use excel for beginners](red2.png)](https://github.com/digishare/how-to-use-excel-for-beginners/)
+[![how to use excel for beginners](red2.png)](https://icncomputer.com/how-to-use-excel-for-beginners/)
 
 Excel is an incredibly powerful tool for getting meaning out of vast amounts of data. But it also works really well for simple calculations and tracking almost any kind of information. The key for unlocking all that potential is the grid of cells. Cells can contain numbers, text, or formulas. You put data in your cells and group them in rows and columns. That allows you to add up your data, sort and filter it, put it in tables, and build great-looking charts. Let’s go through the basic steps to get you started.
 
